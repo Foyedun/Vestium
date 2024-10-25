@@ -63,8 +63,8 @@ const Hero = () => {
     //       <img src={casual} alt="casual girl" className="pl-[1px]" style={{ marginTop: "-50px" }}/>
     //     </div>
     //   </section>
-    <section className="bg-primary pt-[200px] pb-[250px]">
-      <div className="container grid lg:grid-cols-[40%_60%] items-center gap-[50px] lg:gap-[87px]">
+    <section className="bg-primary pt-[85px] pb-[85px] lg:pt-[200px]  lg:pb-[250px]">
+      <div className="container grid lg:grid-cols-[40%_60%] items-center gap-[50px]">
         {/* left hand side */}
         <div>
           <div className="flex gap-[6px] w-fit md:gap-[15px] items-center bg-[#F8F0E380] rounded-[20px] pl-[18px] py-[6px] pr-[25px]">
